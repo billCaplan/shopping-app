@@ -1,1 +1,1 @@
-Put here theme-specific pages to override default ones
+Put here theme-specific pages to override default onesHello World

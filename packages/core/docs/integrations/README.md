@@ -29,3 +29,4 @@ Some integrations are available only for selected eCommerce platforms. Use the d
   type="other"
 >
 </IntegrationList>
+Hello World

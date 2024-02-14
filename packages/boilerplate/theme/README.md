@@ -49,3 +49,4 @@ Example: `/static/robots.txt` is mapped as `/robots.txt`.
 ### `store`
 
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
+Hello World

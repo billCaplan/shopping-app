@@ -9,3 +9,4 @@ This page only contains the documentation specific to commercetools integration.
 Some of the functionalities are available as part of our [Vue Storefront Enterprise](../general/enterprise.html) offering. We highly recommend it to reduce the development time and cost of your project. Feel free to [contact us](https://www.vuestorefront.io/contact/sales) to learn more.
 
 If you'd like to test it before diving in, see our [Enterprise demo](https://demo-ee.vuestorefront.io/) or [Open-source demo](https://vsf-next-demo.storefrontcloud.io/).
+Hello World

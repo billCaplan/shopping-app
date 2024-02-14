@@ -42,3 +42,4 @@ If you want to generate a template of your integration for VSF Next, you need to
 5. Create a new Github repository.
 6. `cd` into `<your-template-name>` and push it to the github repository. 
 7. Test with `cd <your-template-name> && yarn && yarn dev`
+Hello World
